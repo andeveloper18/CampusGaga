@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760865682116",
+    "firebase_url": "https://learnaptitude-c1dc7.firebaseio.com",
+    "project_id": "learnaptitude-c1dc7",
+    "storage_bucket": "learnaptitude-c1dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760865682116:android:6460209a23d067b1eacf91",
+        "android_client_info": {
+          "package_name": "com.example.meditation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760865682116-bfp4kuua9g62dths4iib5bm9obmpbr34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditation_app",
+            "certificate_hash": "8dead993abbd9b13e56ab0095e9787cc75db2767"
+          }
+        },
+        {
+          "client_id": "760865682116-5purecm3hkve2a12dselqbabv2lpapd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffUKhJxjKumRsKVUbZigD8c_DUmwJs_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760865682116-5purecm3hkve2a12dselqbabv2lpapd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
